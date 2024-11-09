@@ -19,10 +19,12 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Mirai-V3-Unofficial",
+    "BOTNAME": "Mirai-V3-thanhdat",
     "PREFIX": "!",
     "BOXADMIN": "6804616456270022",
-    "ADMINBOT": [],
+    "ADMINBOT": [
+        "61561400514605"
+    ],
     "NDH": [
         "502275138"
     ],
